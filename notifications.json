@@ -8,7 +8,7 @@
   "ctaUrl": "https://easytimeline.pro/",
   "platforms": ["mac"],
   "builds": ["free", "pro"]
-  }
+  },
   {
   "id": "0",
   "title": "Update 1.3",
