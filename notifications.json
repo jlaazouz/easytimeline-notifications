@@ -1,3 +1,12 @@
 [
-
+{
+"id": "0",
+"title": "Update 1.0.2",
+"message": "custom presets now appear correctly in search, and shortcut issues are fixed.",
+"date": "2026-05-14",
+"ctaLabel": "Update Details",
+"ctaUrl": "https://easytimeline.pro/whats-new",
+"platforms": ["windows"],
+"builds": ["free", "pro"]
+}
 ]
